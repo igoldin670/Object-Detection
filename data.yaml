@@ -1,0 +1,5 @@
+train: C:\Code\MLTest\train
+val: C:\Code\MLTest\val
+
+nc: 2
+names: ["faces", "w"]
